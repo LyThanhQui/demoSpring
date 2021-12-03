@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-11-14T12:27:59.517+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "message": "",
+  "path": "/api/v1/student/1"
+}

@@ -1,0 +1,280 @@
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T193020.500.json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Tam&email=tmtam@mgmail.com
+Content-Type: application/json
+
+<> 2021-11-14T193010.500.json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Tam&email=tmtam@mgmail.com
+Content-Type: application/json
+
+<> 2021-11-14T192953.500.json
+
+###
+
+POST http://localhost:8081/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T192838.405.json
+
+###
+
+PUT http://localhost:8081/api/v1/student/1?name=Tam&email=tmtam@mgmail.com
+Content-Type: application/json
+
+<> 2021-11-14T192759.404.json
+
+###
+
+PUT http://localhost:8081/api/v1/student/1?name=Tam&email=tmtam@mgmail.com
+Content-Type: application/json
+
+<> 2021-11-14T192746.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Tam&email=tmtam@mgmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Tam?email=tmtam@mgmail.com
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Tam
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+<> 2021-11-14T183437.405.json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+<> 2021-11-14T183424.405.json
+
+###
+
+PUT http://localhost:8083/api/v1/student/1?name=Maria
+Content-Type: application/json
+
+<> 2021-11-14T183322.405.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T183123.500.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T181428.500.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T181318.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T174755.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T174550.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T170525.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T170444.404.json
+
+###
+
+DELETE http://localhost:8083/api/v1/student/1
+
+<> 2021-11-14T170402.404.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T165111.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T165107.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T165046.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T165041.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-14T164921.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-13T210939.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+<> 2021-11-13T210844.500.json
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+
+{
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com",
+"dob": "1995-12-17"
+}
+
+###
+
+POST http://localhost:8083/api/v1/student
+Content-Type: application/json
+{:
+"fistName": "Bilal",
+"email": "Bilal.ahmed@gmail.com"
+"dob": "1995-12-17"
+}:
+
+<> 2021-11-13T210318.400.html
+
+###
+

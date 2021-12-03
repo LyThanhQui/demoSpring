@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-11-14T11:31:23.328+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "student with id 1 does not exits",
+  "path": "/api/v1/student/1"
+}
